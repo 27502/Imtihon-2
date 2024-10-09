@@ -1,0 +1,30 @@
+@font-face {
+    font-family:"DM";
+    src: url(../fonts/DMSans-VariableFont_opsz\,wght.ttf);
+}
+@font-face {
+    font-family:"pp";
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+
+.container{
+    width: 100%;
+    max-width: 1152px;
+    padding:0 16px;
+    margin: 0 auto;
+
+}
+
+.container_lg{
+    width: 100%;
+    max-width: 1312px;
+    padding:0 16px;
+    margin: 0 auto;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "pp";
+}
